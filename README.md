@@ -13,10 +13,10 @@ Welcome to the Flag Quiz App! This app allows users to test their knowledge of f
 
 ## Screenshots
 
-![Screenshot 1](screenshot348.png)
+![Screenshot 1](C:\Users\Ethan\AndroidStudioProjects\udemy stuff and personal projects\FlagQuiz\screenshot348.png)
 ![Screenshot 2](screenshot349.png)
-![Screenshot 1](screenshot3450.png)
-![Screenshot 2](screenshot351.png)
+![Screenshot 3](screenshot3450.png)
+![Screenshot 4](screenshot351.png)
 
 
 ## Installation
