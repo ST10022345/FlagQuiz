@@ -24,7 +24,12 @@ Clone the repository and open it in Android Studio. Build and run the app on an 
 git clone https://github.com/your-username/flag-quiz-app.git
 
 
-## Usage
+
+
+
+
+
+ Usage
 - Enter your name to start the quiz.
 - Select the correct flag from the multiple-choice options.
 - Repeat for all 10 flags.
