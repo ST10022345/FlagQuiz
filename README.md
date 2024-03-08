@@ -13,6 +13,9 @@ Welcome to the Flag Quiz App! This app allows users to test their knowledge of f
 
 ## Screenshots
 ![Screenshot (348)](https://github.com/ST10022345/FlagQuiz/assets/92083774/8dc35268-cfdd-447e-99b9-a8869f44e387)
+![Screenshot (349)](https://github.com/ST10022345/FlagQuiz/assets/92083774/8c7305e0-9e62-400e-be97-2581838631a7)
+![Screenshot (350)](https://github.com/ST10022345/FlagQuiz/assets/92083774/e96ab549-0e49-47e4-9c98-89daebea30f0)
+![Screenshot (351)](https://github.com/ST10022345/FlagQuiz/assets/92083774/29cbfebd-f022-4a8d-a44d-6d4d774c6e81)
 
 
 
