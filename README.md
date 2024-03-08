@@ -13,10 +13,7 @@ Welcome to the Flag Quiz App! This app allows users to test their knowledge of f
 
 ## Screenshots
 
-![Screenshot 1](C:\Users\Ethan\AndroidStudioProjects\udemy stuff and personal projects\FlagQuiz\screenshot348.png)
-![Screenshot 2](screenshot349.png)
-![Screenshot 3](screenshot3450.png)
-![Screenshot 4](screenshot351.png)
+
 
 
 ## Installation
@@ -25,3 +22,11 @@ Clone the repository and open it in Android Studio. Build and run the app on an 
 
 ```bash
 git clone https://github.com/your-username/flag-quiz-app.git
+
+
+## Usage
+- Enter your name to start the quiz.
+- Select the correct flag from the multiple-choice options.
+- Repeat for all 10 flags.
+- View your score and username at the end of the quiz.
+
