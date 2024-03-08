@@ -12,7 +12,7 @@ Welcome to the Flag Quiz App! This app allows users to test their knowledge of f
 - **Leaderboard**: The user's score and username are displayed at the end of the quiz.
 
 ## Screenshots
-
+![Screenshot (348)](https://github.com/ST10022345/FlagQuiz/assets/92083774/8dc35268-cfdd-447e-99b9-a8869f44e387)
 
 
 
