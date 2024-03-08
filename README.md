@@ -23,12 +23,6 @@ Clone the repository and open it in Android Studio. Build and run the app on an 
 ```bash
 git clone https://github.com/your-username/flag-quiz-app.git
 
-
-
-
-
-
-
  Usage
 - Enter your name to start the quiz.
 - Select the correct flag from the multiple-choice options.
